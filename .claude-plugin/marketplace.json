@@ -8,7 +8,7 @@
       "name": "maximous",
       "source": {
         "source": "github",
-        "repo": "laurentlouk/maximous"
+        "repo": "awesome-lab/maximous"
       },
       "description": "Lightweight SQLite brain for multi-agent orchestration — shared memory, messaging, task coordination, and observation for Claude Code agents"
     }
